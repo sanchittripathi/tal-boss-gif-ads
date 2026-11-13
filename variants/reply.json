@@ -1,0 +1,30 @@
+{
+  "colors": { "background": "#FFD400", "text": "#0B0B0C", "accent": "#FF5201" },
+  "audience": "FOR CTOs OF BANGALORE",
+  "headlineLine1": "MEET THE BEST ENGINEERS",
+  "headlineLine2": "IN *10 MINUTES.*",
+  "candidate": {
+    "name": "Sameer Ansari",
+    "title": "Backend Lead",
+    "company": "Razorpay",
+    "area": "HSR Layout",
+    "city": "Bengaluru",
+    "years": "8 yrs",
+    "ctc": "₹62 LPA",
+    "question": "What I'm proudest of",
+    "answer": "moved our payouts to kafka with zero downtime.",
+    "photo": "sameer-ansari",
+    "focusX": 0.47,
+    "focusY": 0.42,
+    "zoom": 1,
+    "photoFit": null,
+    "scrollNudge": 0
+  },
+  "hiringFor": "Backend Lead",
+  "message": { "text": "hey sameer, we're rebuilding payouts at a 40 person startup in HSR. 15 min call this week?", "time": "10:02 AM" },
+  "reply": { "text": "hey! sure, thu after 7 works. what's your stack?", "time": "10:09 AM" },
+  "meet": { "when": "Thu, 14 Nov · 7:30 PM", "what": "15 min · Google Meet", "time": "10:10 AM" },
+  "chips": ["Sounds good!", "Sending the invite"],
+  "bossPhoto": "harsh-vora",
+  "endCard": { "logo": "dark", "installLabel": "Install Now", "pill": "dark", "storeBadges": true }
+}

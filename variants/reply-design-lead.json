@@ -1,0 +1,30 @@
+{
+  "colors": { "background": "#FFD400", "text": "#0B0B0C", "accent": "#FF5201" },
+  "audience": "FOR FOUNDERS OF BANGALORE",
+  "headlineLine1": "MEET THE BEST DESIGNERS",
+  "headlineLine2": "IN *10 MINUTES.*",
+  "candidate": {
+    "name": "Priya Raghavan",
+    "title": "Design Lead",
+    "company": "Swiggy",
+    "area": "Indiranagar",
+    "city": "Bengaluru",
+    "years": "9 yrs",
+    "ctc": "₹58 LPA",
+    "question": "What I'm proudest of",
+    "answer": "redid the menu page. people find their dish in half the time now.",
+    "photo": "shruti-raman",
+    "focusX": 0.42,
+    "focusY": 0.4,
+    "zoom": 1,
+    "photoFit": null,
+    "scrollNudge": 0
+  },
+  "hiringFor": "Design Lead",
+  "message": { "text": "hi priya, we're a 30 person fintech in Koramangala and need our first design lead. 15 min chat this week?", "time": "11:14 AM" },
+  "reply": { "text": "hi! happy to. wed evening works, what's the product?", "time": "11:23 AM" },
+  "meet": { "when": "Wed, 18 Nov · 7:00 PM", "what": "15 min · Google Meet", "time": "11:25 AM" },
+  "chips": ["Wed works!", "Sending the invite"],
+  "bossPhoto": "harsh-vora",
+  "endCard": { "logo": "dark", "installLabel": "Install Now", "pill": "dark", "storeBadges": true }
+}

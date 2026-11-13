@@ -1,0 +1,50 @@
+{
+  "colors": { "background": "#FF5201", "text": "#0B0B0C", "highlight": "#FFFFFF" },
+  "audience": "FOR CTOs OF BANGALORE",
+  "line": "STUCK AT SILK BOARD.",
+  "repeat": 3,
+  "lastLine": "MEET AN ENGINEER.",
+  "clock": "6:16",
+  "tabs": [
+    { "label": "All", "count": null },
+    { "label": "Backend Lead", "count": 12 },
+    { "label": "SDE-3", "count": 9 },
+    { "label": "Platform", "count": 4 }
+  ],
+  "yourTurn": [
+    {
+      "person": { "name": "Rohan Das", "title": "Backend Lead", "company": "PhonePe", "photo": "rohan-das" },
+      "hiringFor": "Backend Lead",
+      "incoming": [
+        { "text": "hey, is the backend lead role still open?", "time": "5:52 PM" },
+        { "text": "free to talk today? i'm wfh", "time": "6:12 PM" }
+      ],
+      "preview": "free to talk today? i'm wfh",
+      "answer": { "text": "Meet invite sent", "time": "6:14 PM" },
+      "meetInvite": { "when": "Today · 6:30 PM", "what": "15 min · Google Meet" }
+    },
+    {
+      "person": { "name": "Ishita Kapoor", "title": "SDE-3", "company": "Razorpay", "photo": "ishita-kapoor" },
+      "hiringFor": "Backend Lead",
+      "incoming": [{ "text": "hi! saw the role. sending my github. thu ok?", "time": "6:09 PM" }],
+      "preview": "sending my github. thu ok?",
+      "answer": { "text": "thu 11 works", "time": "6:15 PM" },
+      "meetInvite": null
+    },
+    {
+      "person": { "name": "Vivek Nair", "title": "Platform Engineer", "company": "Zepto", "photo": "vivek-nair" },
+      "hiringFor": "Backend Lead",
+      "incoming": [{ "text": "is it remote or HSR?", "time": "6:03 PM" }],
+      "preview": "is it remote or HSR?",
+      "answer": { "text": "HSR, 3 days a week. call today?", "time": "6:16 PM" },
+      "meetInvite": null
+    }
+  ],
+  "theirTurn": [
+    { "person": { "name": "Meera Joshi", "title": "SDE-2", "company": "Flipkart", "photo": "meera-joshi" }, "preview": "You: great, sending the JD now", "time": "5:41 PM" },
+    { "person": { "name": "Karthik Raman", "title": "Backend Engineer", "company": "Groww", "photo": "karthik-raman" }, "preview": "You: are you free friday?", "time": "5:20 PM" }
+  ],
+  "theirTurnTotal": 6,
+  "bossPhoto": "harsh-vora",
+  "endCard": { "logo": "dark", "installLabel": "Install Now", "pill": "dark", "storeBadges": true }
+}

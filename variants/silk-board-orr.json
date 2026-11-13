@@ -1,0 +1,50 @@
+{
+  "colors": { "background": "#FF5201", "text": "#0B0B0C", "highlight": "#FFFFFF" },
+  "audience": "FOR HEADS OF DATA IN BANGALORE",
+  "line": "STUCK AT ORR.",
+  "repeat": 3,
+  "lastLine": "MEET A DATA ENGINEER.",
+  "clock": "6:15",
+  "tabs": [
+    { "label": "All", "count": null },
+    { "label": "Data Engineer", "count": 14 },
+    { "label": "Analytics", "count": 6 },
+    { "label": "ML", "count": 3 }
+  ],
+  "yourTurn": [
+    {
+      "person": { "name": "Farhan Sheikh", "title": "Data Engineer", "company": "Swiggy", "photo": "imran-qureshi" },
+      "hiringFor": "Data Engineer",
+      "incoming": [
+        { "text": "saw the data engineer role. is it spark or flink?", "time": "5:48 PM" },
+        { "text": "can talk after 6:30 if that works", "time": "6:11 PM" }
+      ],
+      "preview": "can talk after 6:30 if that works",
+      "answer": { "text": "Meet invite sent", "time": "6:13 PM" },
+      "meetInvite": { "when": "Today · 6:45 PM", "what": "15 min · Google Meet" }
+    },
+    {
+      "person": { "name": "Deepa Krishnan", "title": "Senior Data Engineer", "company": "Flipkart", "photo": "ritika-agarwal" },
+      "hiringFor": "Data Engineer",
+      "incoming": [{ "text": "hi! i moved two warehouses to bigquery last year. want the writeup?", "time": "6:05 PM" }],
+      "preview": "want the writeup?",
+      "answer": { "text": "yes please. fri 10 am?", "time": "6:14 PM" },
+      "meetInvite": null
+    },
+    {
+      "person": { "name": "Aakash Rao", "title": "Analytics Engineer", "company": "Zepto", "photo": "tushar-patil" },
+      "hiringFor": "Data Engineer",
+      "incoming": [{ "text": "how big is the data team?", "time": "5:58 PM" }],
+      "preview": "how big is the data team?",
+      "answer": { "text": "4 of us, you'd be the 5th. call tomorrow?", "time": "6:15 PM" },
+      "meetInvite": null
+    }
+  ],
+  "theirTurn": [
+    { "person": { "name": "Nikita Shah", "title": "Data Analyst", "company": "PhonePe", "photo": "nandini-krishnan" }, "preview": "You: sharing the take-home now", "time": "5:36 PM" },
+    { "person": { "name": "Rohit Kamath", "title": "ML Engineer", "company": "CRED", "photo": "varun-reddy" }, "preview": "You: does monday work?", "time": "5:12 PM" }
+  ],
+  "theirTurnTotal": 4,
+  "bossPhoto": "rajiv-malhotra",
+  "endCard": { "logo": "dark", "installLabel": "Install Now", "pill": "dark", "storeBadges": true }
+}
