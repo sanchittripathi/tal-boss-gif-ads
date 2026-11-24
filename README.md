@@ -15,6 +15,37 @@ Example variants, made only by changing props:
 | ![](renders/reply-design-lead.gif) | ![](renders/tal-does-designer.gif) | ![](renders/silk-board-orr.gif) |
 | [`variants/reply-design-lead.json`](variants/reply-design-lead.json) | [`variants/tal-does-designer.json`](variants/tal-does-designer.json) | [`variants/silk-board-orr.json`](variants/silk-board-orr.json) |
 
+## Jobs are the ad (black and white, Nov 2026)
+
+Real roles live on Tal are the creative: a boss at a company is hiring, here is the role, the Est. CTC, the experience and the place. The four GIFs show five roles each, one after the other, then the end card. Square GIFs are 1080×1080; the photo one is 1080×1350.
+
+| Stamp | Folder | HIRING | Photo |
+|---|---|---|---|
+| ![Stamp](renders/jobs/jobs-stamp.gif) | ![Folder](renders/jobs/jobs-folder.gif) | ![HIRING](renders/jobs/jobs-hiring.gif) | ![Photo](renders/jobs/jobs-photo.gif) |
+| `J-classic-G5-stamp` | `J-classic-G5-folder` | `J-classic-G5-hiring` | `J-classic-G5-photo` |
+| [GIF](renders/jobs/jobs-stamp.gif) · [MP4](renders/jobs/jobs-stamp.mp4) | [GIF](renders/jobs/jobs-folder.gif) · [MP4](renders/jobs/jobs-folder.mp4) | [GIF](renders/jobs/jobs-hiring.gif) · [MP4](renders/jobs/jobs-hiring.mp4) | [GIF](renders/jobs/jobs-photo.gif) · [MP4](renders/jobs/jobs-photo.mp4) |
+
+These use Razorpay, Swiggy, CRED, Zepto and Groww. To make a new GIF, pick five roles by slug:
+
+```bash
+node scripts/jobs-render.mjs J-classic-G5-stamp phonepe,flipkart,zomato,postman,sarvam --name=consumer-tech
+# -> out/jobs/classic/J-classic-G5-stamp_consumer-tech.mp4, .gif (720 wide, 15 fps) and _f0.png
+```
+
+- **Roles** live in [`src/jobs/data/jobs.json`](src/jobs/data/jobs.json): 52 Bangalore roles that were live on Tal on 23 Nov 2026. The slug is the company name in lower case (`ather-energy`, `pocket-fm`).
+- **Five roles per GIF.** The timing is built for five (54 frames a role, then a 66-frame end card at 30 fps).
+- **The same layouts come as statics:** `J-classic-S1-<look>` (one role), `J-classic-S3-<look>` (three roles) and `J-classic-S1-badge`. Give them one or three slugs.
+- **CTA.** The default is the candidate copy ("Apply now" · "Reach hiring managers in 24h."). Add `--audience=boss` for the boss copy ("Install Now" · "The app where bosses hire directly.").
+- **In the Studio** (`npm run dev`) the comps are under *Jobs → Classic*. Edit the `jobs` list in the props panel to preview.
+
+**Adding a role.** Add an entry to `jobs.json` (copy one and change it) and put the company's app icon in `public/logos/<slug>.png` (square, at least 200 px). Set `logoBg` to the icon's background colour.
+
+**Truth rules.** These are real roles, so never change a fact: company, title, CTC range, experience and location must match the live job. Pay is always labelled "Est. CTC". Say "a boss at X is hiring", never that X endorses Tal. Logos only appear as the small app tile next to the company name.
+
+**Fonts.** The headline is Obviously Wide Semibold and the cards are SF Pro, so these extra files go in `public/fonts/` (see [Fonts](#fonts)): `ObviouslyDemo-WideSemibold.otf`, `ObviouslyDemo-Bold.otf`, `Obviously-NarrowBold.otf`, `SF-Pro-Display-Regular.otf`, `SF-Pro-Display-Medium.otf`, `SF-Pro-Display-Semibold.otf`, `SF-Pro-Display-Bold.otf`. Geist Mono (the small labels) comes from Google Fonts. Without the files the render stops with `Font file missing`.
+
+The code is in [`src/jobs/classic/`](src/jobs/classic/) (`index.tsx` has the four looks, `parts.tsx` the colours, CTA copy and shapes) and [`src/jobs/kit/`](src/jobs/kit/) (fonts, the job type, logo tile).
+
 ## Run it
 
 You need Node 18+ and ffmpeg (`brew install ffmpeg`). Put the licensed fonts in `public/fonts/` first (see [Fonts](#fonts)).
