@@ -46,6 +46,37 @@ node scripts/jobs-render.mjs J-classic-G5-stamp phonepe,flipkart,zomato,postman,
 
 The code is in [`src/jobs/classic/`](src/jobs/classic/) (`index.tsx` has the four looks, `parts.tsx` the colours, CTA copy and shapes) and [`src/jobs/kit/`](src/jobs/kit/) (fonts, the job type, logo tile).
 
+## Role carousel (final look, 25 Nov 2026)
+
+The finished design for "jobs are the ad": one role card at a time on the dark gradient. The roles slide through, the "#N of total" counter rolls with each one, then the end card. It loops with no jump.
+
+![Role carousel](renders/jobs/final-role-carousel.gif)
+
+[GIF](renders/jobs/final-role-carousel.gif) (1080×1080, 25 fps) · [MP4](renders/jobs/final-role-carousel.mp4) (50 fps)
+
+Render any set of roles in this look:
+
+```bash
+node scripts/final-render.mjs data/sets_25nov.json out/final --only=pm_mid_known-brands_A
+# -> out/final/gifs/<name>.gif, mp4s/<name>.mp4, statics/<name>__<company>.png
+node scripts/final-render.mjs data/sets_25nov.json out/final          # all 50 sets
+```
+
+- **A set** is one audience: a function, a level and a kind of company. [`data/sets_25nov.json`](data/sets_25nov.json) has the 50 sets pulled on 25 Nov 2026. Each has `fn` (how it reads after "active", e.g. `"mid-level PM roles"`), `total` and a list of roles (`company`, `title`, `location`, `exp`, `logo`, `rank`).
+- **To make a new one,** add a set to a JSON file of the same shape and put each company's logo in `public/logos/` (square, 200 px or more).
+- **How many roles.** The GIF shows the first four roles of a set (`--roles=3` or `--roles=5` to change it). A set needs at least three. Each role is on screen for 1.9 s, the end card for 3.2 s.
+- **File size.** A 1080 GIF is about 8.5 MB. Add `--width=720` for about 4.5 MB.
+- **CTA.** Candidate copy by default ("Join Tal", then "Apply now" on the end card). Add `--audience=boss` for the boss copy.
+- **In the Studio** (`npm run dev`) the comps are under *Jobs → Final*: `J-final-G` (the GIF) and `J-final-S1` (the same frame as a static).
+
+**Truth rules.** `total` is the real number of live roles for that function and level on the day of the pull, and `rank` is that role's real position among them. Don't round them up or reuse an old number: pull again. Company, title, experience and location must match the live job. No salary on this look.
+
+**Design source.** Figma file Tal-DS, Creatives page: the single-job frame (`1685:19643`) and the end card (`1675:63507`). The background (`public/brand/final-bg.png`) and the app icon (`public/brand/final-app-icon.png`) are exported from that frame. Everything else is drawn in code in [`src/jobs/final/index.tsx`](src/jobs/final/index.tsx).
+
+**Fonts** (in `public/fonts/`, see [Fonts](#fonts)): `SF-Pro-Display-Medium.otf`, `SF-Pro-Display-Semibold.otf`, `Obviously-NarrowBold.otf`, `ObviouslyDemo-Bold.otf`. Optional: `SF-Pro.ttf` (the variable SF Pro from Apple's download) gives the end-card count line its Expanded width; without it that line is set in SF Pro Display.
+
+The earlier folder-card version of these sets is in [`src/jobs/sets/`](src/jobs/sets/) (`scripts/sets-render.mjs`, comps `J-set-S1`, `J-set-S3`, `J-set-G`).
+
 ## Run it
 
 You need Node 18+ and ffmpeg (`brew install ffmpeg`). Put the licensed fonts in `public/fonts/` first (see [Fonts](#fonts)).

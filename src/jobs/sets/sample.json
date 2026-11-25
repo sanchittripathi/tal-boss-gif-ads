@@ -1,0 +1,12 @@
+{
+  "fn": "PM",
+  "total": 217,
+  "audience": "candidate",
+  "roles": [
+    { "company": "Ather Energy", "title": "Product Manager, Charging Infrastructure", "exp": "4–7 yrs", "location": "Bengaluru", "logo": "logos/ather-energy.png", "rank": 158 },
+    { "company": "Jar", "title": "Product Manager", "exp": "3–6 yrs", "location": "Bengaluru", "logo": "logos/jar.png", "rank": 21 },
+    { "company": "Zepto", "title": "Product Manager, Marketplace", "exp": "2–5 yrs", "location": "Bengaluru", "logo": "logos/zepto.png", "rank": 29 },
+    { "company": "Pocket FM", "title": "Senior Product Manager", "exp": "5–7 yrs", "location": "Koramangala", "logo": "logos/pocket-fm.png", "rank": 181 },
+    { "company": "MoEngage", "title": "Senior Product Manager", "exp": "5–10 yrs", "location": "Koramangala", "logo": "logos/moengage.png", "rank": 155 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "audience": "candidate",
+  "roles": [
+    {
+      "company": "Zepto",
+      "title": "Product Manager 1",
+      "location": "Haralur",
+      "exp": "2–4 yrs",
+      "logo": "logos/zepto.png",
+      "rank": 21
+    },
+    {
+      "company": "Pocket FM",
+      "title": "Senior Product Manager",
+      "location": "Koramangala",
+      "exp": "5–7 yrs",
+      "logo": "logos/pocket-fm.png",
+      "rank": 19
+    },
+    {
+      "company": "Ather Energy",
+      "title": "Product Manager, Charging Infrastructure",
+      "location": "Bengaluru",
+      "exp": "4–7 yrs",
+      "logo": "logos/ather-energy.png",
+      "rank": 33
+    },
+    {
+      "company": "Jar",
+      "title": "Product Manager",
+      "location": "Bengaluru",
+      "exp": "3–6 yrs",
+      "logo": "logos/jar.png",
+      "rank": 69
+    }
+  ]
+}

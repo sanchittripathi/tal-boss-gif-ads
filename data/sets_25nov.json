@@ -1,0 +1,2304 @@
+[
+ {
+  "name": "eng_mid_known-brands_A",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Swiggy",
+    "title": "Frontend Engineer",
+    "location": "Koramangala",
+    "exp": "2–5 yrs",
+    "logo": "logos/swiggy.png",
+    "rank": 34
+   },
+   {
+    "company": "PhonePe",
+    "title": "Software Engineer, Mobile",
+    "location": "Bellandur",
+    "exp": "2–9 yrs",
+    "logo": "logos/phonepe.png",
+    "rank": 23
+   },
+   {
+    "company": "Meesho",
+    "title": "Software Developer",
+    "location": "Koramangala",
+    "exp": "2–4 yrs",
+    "logo": "logos/meesho.png",
+    "rank": 24
+   },
+   {
+    "company": "Groww",
+    "title": "SDE II",
+    "location": "Bellandur",
+    "exp": "2–5 yrs",
+    "logo": "logos/groww.png",
+    "rank": 16
+   },
+   {
+    "company": "Rapido",
+    "title": "Data Engineer",
+    "location": "Bellandur",
+    "exp": "2–4 yrs",
+    "logo": "logos/rapido.png",
+    "rank": 68
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_known-brands_B",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Zomato",
+    "title": "AI/ML Engineer",
+    "location": "Bengaluru",
+    "exp": "2–10 yrs",
+    "logo": "logos/zomato.png",
+    "rank": 13
+   },
+   {
+    "company": "slice",
+    "title": "SDE 2, Backend",
+    "location": "Bengaluru",
+    "exp": "3–5 yrs",
+    "logo": "logos/slice.png",
+    "rank": 17
+   },
+   {
+    "company": "Curefit",
+    "title": "SDE 3",
+    "location": "HSR Layout",
+    "exp": "5–9 yrs",
+    "logo": "logos/curefit.png",
+    "rank": 48
+   },
+   {
+    "company": "Keka",
+    "title": "Senior Software Engineer",
+    "location": "Indiranagar",
+    "exp": "3–5 yrs",
+    "logo": "logos/keka.png",
+    "rank": 105
+   },
+   {
+    "company": "Sarvam",
+    "title": "AI Engineer",
+    "location": "Koramangala",
+    "exp": "2–5 yrs",
+    "logo": "logos/sarvam.png",
+    "rank": 36
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_known-brands_C",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Ola",
+    "title": "Software Developer",
+    "location": "Bengaluru",
+    "exp": "2–5 yrs",
+    "logo": "logos/ola.png",
+    "rank": 35
+   },
+   {
+    "company": "Housing.com",
+    "title": "SDE",
+    "location": "Koramangala",
+    "exp": "2–4 yrs",
+    "logo": "logos/housing-com.png",
+    "rank": 149
+   },
+   {
+    "company": "Scapia",
+    "title": "Flutter Engineer",
+    "location": "Bellandur",
+    "exp": "2–6 yrs",
+    "logo": "logos/scapia.png",
+    "rank": 137
+   },
+   {
+    "company": "Swish",
+    "title": "Software Engineer 2",
+    "location": "HSR Layout",
+    "exp": "3–5 yrs",
+    "logo": "logos/swish.png",
+    "rank": 207
+   },
+   {
+    "company": "Glance",
+    "title": "SDE 3, Machine Learning",
+    "location": "Kadubeesanahalli",
+    "exp": "5–7 yrs",
+    "logo": "logos/glance.png",
+    "rank": 6
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_known-brands_D",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Pocket FM",
+    "title": "Senior SRE",
+    "location": "Devarabisanahalli",
+    "exp": "2–5 yrs",
+    "logo": "logos/pocket-fm.png",
+    "rank": 170
+   },
+   {
+    "company": "Angel One",
+    "title": "Software Development Engineer 2, iOS",
+    "location": "Bengaluru",
+    "exp": "4–6 yrs",
+    "logo": "logos/angel-one.png",
+    "rank": 88
+   },
+   {
+    "company": "NoBroker",
+    "title": "Android Developer",
+    "location": "Bengaluru",
+    "exp": "4–6 yrs",
+    "logo": "logos/nobroker.png",
+    "rank": 46
+   },
+   {
+    "company": "Shadowfax",
+    "title": "Backend Software Engineer",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/shadowfax.png",
+    "rank": 107
+   },
+   {
+    "company": "Acko",
+    "title": "SDE 2",
+    "location": "Bengaluru",
+    "exp": "3–5 yrs",
+    "logo": "logos/acko.png",
+    "rank": 39
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_global-tech_A",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Stripe",
+    "title": "Software Engineer 2",
+    "location": "Bellandur",
+    "exp": "5–8 yrs",
+    "logo": "logos/stripe.png",
+    "rank": 2
+   },
+   {
+    "company": "Rippling",
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/rippling.png",
+    "rank": 22
+   },
+   {
+    "company": "Postman",
+    "title": "Software Engineer, Frontend",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/postman.png",
+    "rank": 14
+   },
+   {
+    "company": "Glean",
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/glean.png",
+    "rank": 52
+   },
+   {
+    "company": "Deliveroo",
+    "title": "Software Engineer",
+    "location": "Koramangala",
+    "exp": "3–8 yrs",
+    "logo": "logos/deliveroo.png",
+    "rank": 31
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_global-tech_B",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Truecaller",
+    "title": "Senior Backend Engineer",
+    "location": "Bengaluru",
+    "exp": "5–9 yrs",
+    "logo": "logos/truecaller.png",
+    "rank": 56
+   },
+   {
+    "company": "Tekion",
+    "title": "Senior Development Engineer",
+    "location": "Bengaluru",
+    "exp": "2–5 yrs",
+    "logo": "logos/tekion.png",
+    "rank": 32
+   },
+   {
+    "company": "IMC Trading",
+    "title": "SDE",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/imc-trading.png",
+    "rank": 9
+   },
+   {
+    "company": "Flexera",
+    "title": "Backend Engineer, AI",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/flexera.png",
+    "rank": 177
+   },
+   {
+    "company": "Arctic Wolf",
+    "title": "SDE",
+    "location": "Bengaluru",
+    "exp": "5–7 yrs",
+    "logo": "logos/arctic-wolf.png",
+    "rank": 82
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_gcc-mnc_A",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Disney",
+    "title": "Senior Product Engineer",
+    "location": "Bellandur",
+    "exp": "5–9 yrs",
+    "logo": "logos/disney.png",
+    "rank": 43
+   },
+   {
+    "company": "Target",
+    "title": "Senior Engineer",
+    "location": "Nagavara",
+    "exp": "4–6 yrs",
+    "logo": "logos/target.png",
+    "rank": 136
+   },
+   {
+    "company": "ABB",
+    "title": "Software Engineer",
+    "location": "Whitefield",
+    "exp": "2–6 yrs",
+    "logo": "logos/abb.png",
+    "rank": 215
+   },
+   {
+    "company": "Aon",
+    "title": "Data Scientist",
+    "location": "Whitefield",
+    "exp": "3–5 yrs",
+    "logo": "logos/aon.png",
+    "rank": 168
+   },
+   {
+    "company": "Applied Materials",
+    "title": "Software Engineer",
+    "location": "Whitefield",
+    "exp": "2–5 yrs",
+    "logo": "logos/applied-materials.png",
+    "rank": 61
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_gcc-mnc_B",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Cargill",
+    "title": "AIOps Engineer",
+    "location": "Bengaluru",
+    "exp": "2–8 yrs",
+    "logo": "logos/cargill.png",
+    "rank": 115
+   },
+   {
+    "company": "Deloitte Digital",
+    "title": "Agentic AI Developer",
+    "location": "Bengaluru",
+    "exp": "4–10 yrs",
+    "logo": "logos/deloitte-digital.png",
+    "rank": 140
+   },
+   {
+    "company": "Tiger Analytics",
+    "title": "AI Engineer",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/tiger-analytics.png",
+    "rank": 211
+   },
+   {
+    "company": "PayU",
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/payu.png",
+    "rank": 147
+   },
+   {
+    "company": "Nordea",
+    "title": "Software Engineer",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/nordea.png",
+    "rank": 162
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_gcc-mnc_C",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Wipro",
+    "title": "VLSI Engineer",
+    "location": "Mahadevapura",
+    "exp": "2–5 yrs",
+    "logo": "logos/wipro.png",
+    "rank": 365
+   },
+   {
+    "company": "L&T Technology Services",
+    "title": "FuSa Engineer",
+    "location": "Bengaluru",
+    "exp": "3–10 yrs",
+    "logo": "logos/l-t-technology-services.png",
+    "rank": 303
+   },
+   {
+    "company": "UST",
+    "title": "Senior Hardware Engineer",
+    "location": "Mahadevapura",
+    "exp": "5–10 yrs",
+    "logo": "logos/ust.png",
+    "rank": 408
+   },
+   {
+    "company": "WEX",
+    "title": "Software Development Engineer 2",
+    "location": "Bengaluru",
+    "exp": "2–5 yrs",
+    "logo": "logos/wex.png",
+    "rank": 179
+   },
+   {
+    "company": "ResMed",
+    "title": "AI Platform Engineer",
+    "location": "Bengaluru",
+    "exp": "3–5 yrs",
+    "logo": "logos/resmed.png",
+    "rank": 101
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_scale-ups_A",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Mercari",
+    "title": "Senior Backend Engineer",
+    "location": "Kadubeesanahalli",
+    "exp": "5–12 yrs",
+    "logo": "logos/mercari.png",
+    "rank": 10
+   },
+   {
+    "company": "Locus",
+    "title": "Staff / SDE 3, Backend",
+    "location": "Bengaluru",
+    "exp": "5–10 yrs",
+    "logo": "logos/locus.png",
+    "rank": 50
+   },
+   {
+    "company": "Teachmint",
+    "title": "Senior Software Engineer, Edge AI",
+    "location": "Bengaluru",
+    "exp": "4–7 yrs",
+    "logo": "logos/teachmint.png",
+    "rank": 92
+   },
+   {
+    "company": "Impact Analytics",
+    "title": "Software Engineer, AI Products",
+    "location": "Bellandur",
+    "exp": "2+ yrs",
+    "logo": "logos/impact-analytics.png",
+    "rank": 131
+   },
+   {
+    "company": "Eloelo",
+    "title": "Data Scientist / AI Engineer",
+    "location": "Bengaluru",
+    "exp": "2–6 yrs",
+    "logo": "logos/eloelo.png",
+    "rank": 102
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_scale-ups_B",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Greenlight",
+    "title": "SDET",
+    "location": "Bellandur",
+    "exp": "2–4 yrs",
+    "logo": "logos/greenlight.png",
+    "rank": 129
+   },
+   {
+    "company": "Best Buy India",
+    "title": "Data Engineer",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/best-buy-india.png",
+    "rank": 81
+   },
+   {
+    "company": "Clear Street",
+    "title": "Backend Engineer",
+    "location": "Bengaluru",
+    "exp": "4–8 yrs",
+    "logo": "logos/clear-street.png",
+    "rank": 94
+   },
+   {
+    "company": "Bureau",
+    "title": "Senior Data Engineer",
+    "location": "Bengaluru",
+    "exp": "4–7 yrs",
+    "logo": "logos/bureau.png",
+    "rank": 122
+   },
+   {
+    "company": "WeRize",
+    "title": "Data Scientist",
+    "location": "Bellandur",
+    "exp": "2–4 yrs",
+    "logo": "logos/werize.png",
+    "rank": 119
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_early-stage_A",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "LiteLLM",
+    "title": "SDE 2",
+    "location": "Koramangala",
+    "exp": "3–6 yrs",
+    "logo": "logos/litellm.png",
+    "rank": 40
+   },
+   {
+    "company": "Pibit.ai",
+    "title": "SDE 2",
+    "location": "HSR Layout",
+    "exp": "3–5 yrs",
+    "logo": "logos/pibit-ai.png",
+    "rank": 109
+   },
+   {
+    "company": "Decentro",
+    "title": "Data Engineer",
+    "location": "Whitefield",
+    "exp": "3–7 yrs",
+    "logo": "logos/decentro.png",
+    "rank": 116
+   },
+   {
+    "company": "SigNoz",
+    "title": "Senior Software Engineer",
+    "location": "Bengaluru",
+    "exp": "4–6 yrs",
+    "logo": "logos/signoz.png",
+    "rank": 29
+   },
+   {
+    "company": "Potpie AI",
+    "title": "AI/ML Engineer",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/potpie-ai.png",
+    "rank": 139
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_early-stage_B",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "Apica",
+    "title": "Senior Software Engineer",
+    "location": "HSR Layout",
+    "exp": "5–10 yrs",
+    "logo": "logos/apica.png",
+    "rank": 69
+   },
+   {
+    "company": "Asymmetric Labs",
+    "title": "Android Developer",
+    "location": "HSR Layout",
+    "exp": "4–6 yrs",
+    "logo": "logos/asymmetric-labs.png",
+    "rank": 144
+   },
+   {
+    "company": "Triplespeed",
+    "title": "Fullstack Engineer",
+    "location": "Indiranagar",
+    "exp": "2–5 yrs",
+    "logo": "logos/triplespeed.png",
+    "rank": 247
+   },
+   {
+    "company": "twid",
+    "title": "Senior Software Engineer",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/twid.png",
+    "rank": 135
+   },
+   {
+    "company": "Alt DRX",
+    "title": "Security Engineer",
+    "location": "Indiranagar",
+    "exp": "2–6 yrs",
+    "logo": "logos/alt-drx.png",
+    "rank": 178
+   }
+  ]
+ },
+ {
+  "name": "eng_mid_early-stage_C",
+  "fn": "mid-level engineering roles",
+  "total": 21708,
+  "roles": [
+   {
+    "company": "UptimeAI",
+    "title": "DevOps / SRE / Cloud Engineer",
+    "location": "Nagavara",
+    "exp": "4–8 yrs",
+    "logo": "logos/uptimeai.png",
+    "rank": 240
+   },
+   {
+    "company": "Reckonsys",
+    "title": "Senior Software Engineer, AI",
+    "location": "HSR Layout",
+    "exp": "5–8 yrs",
+    "logo": "logos/reckonsys.png",
+    "rank": 448
+   },
+   {
+    "company": "Questt AI",
+    "title": "Forward Deployed Engineer",
+    "location": "HSR Layout",
+    "exp": "5–10 yrs",
+    "logo": "logos/questt-ai.png",
+    "rank": 161
+   },
+   {
+    "company": "Agilitas",
+    "title": "Data Engineer",
+    "location": "Marathahalli",
+    "exp": "2–4 yrs",
+    "logo": "logos/agilitas.png",
+    "rank": 438
+   },
+   {
+    "company": "CREW",
+    "title": "SDE 2, Applied AI",
+    "location": "Whitefield",
+    "exp": "3–5 yrs",
+    "logo": "logos/crew.png",
+    "rank": 121
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_known-brands_A",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Swiggy",
+    "title": "Software Development Engineer III, Supply Chain",
+    "location": "Bengaluru",
+    "exp": "6–9 yrs",
+    "logo": "logos/swiggy.png",
+    "rank": 17
+   },
+   {
+    "company": "Meesho",
+    "title": "Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "8–12 yrs",
+    "logo": "logos/meesho.png",
+    "rank": 36
+   },
+   {
+    "company": "PhysicsWallah",
+    "title": "Staff Backend Engineer",
+    "location": "Bengaluru",
+    "exp": "7–12 yrs",
+    "logo": "logos/physicswallah.png",
+    "rank": 46
+   },
+   {
+    "company": "Rapido",
+    "title": "Lead Data Scientist",
+    "location": "Bellandur",
+    "exp": "7–9 yrs",
+    "logo": "logos/rapido.png",
+    "rank": 54
+   },
+   {
+    "company": "Porter",
+    "title": "Senior Software Engineer",
+    "location": "Whitefield",
+    "exp": "6–8 yrs",
+    "logo": "logos/porter.png",
+    "rank": 34
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_known-brands_B",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Ola",
+    "title": "SDE III, Backend",
+    "location": "Bengaluru",
+    "exp": "6–9 yrs",
+    "logo": "logos/ola.png",
+    "rank": 41
+   },
+   {
+    "company": "slice",
+    "title": "Site Reliability Engineer 3",
+    "location": "Bengaluru",
+    "exp": "6–12 yrs",
+    "logo": "logos/slice.png",
+    "rank": 15
+   },
+   {
+    "company": "bigbasket",
+    "title": "Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "8–14 yrs",
+    "logo": "logos/bigbasket.png",
+    "rank": 84
+   },
+   {
+    "company": "Truemeds",
+    "title": "Engineering Manager",
+    "location": "Bellandur",
+    "exp": "6–10 yrs",
+    "logo": "logos/truemeds.png",
+    "rank": 95
+   },
+   {
+    "company": "Acko",
+    "title": "Lead Engineer",
+    "location": "Bengaluru",
+    "exp": "7–10 yrs",
+    "logo": "logos/acko.png",
+    "rank": 11
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_global-tech_A",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Amazon",
+    "title": "Senior Frontend Engineer (L6)",
+    "location": "Bengaluru",
+    "exp": "8–15 yrs",
+    "logo": "logos/amazon.png",
+    "rank": 2
+   },
+   {
+    "company": "Databricks",
+    "title": "Senior Software Engineer",
+    "location": "Bengaluru",
+    "exp": "6–12 yrs",
+    "logo": "logos/databricks.png",
+    "rank": 3
+   },
+   {
+    "company": "Okta",
+    "title": "Staff Engineer",
+    "location": "Bengaluru",
+    "exp": "7–10 yrs",
+    "logo": "logos/okta.png",
+    "rank": 6
+   },
+   {
+    "company": "Rippling",
+    "title": "Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "9–13 yrs",
+    "logo": "logos/rippling.png",
+    "rank": 10
+   },
+   {
+    "company": "Adyen",
+    "title": "Senior Software Engineer",
+    "location": "Bellandur",
+    "exp": "7–10 yrs",
+    "logo": "logos/adyen.png",
+    "rank": 7
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_global-tech_B",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Indeed",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Bengaluru",
+    "exp": "6+ yrs",
+    "logo": "logos/indeed.png",
+    "rank": 18
+   },
+   {
+    "company": "ThoughtSpot",
+    "title": "Senior Site Reliability Engineer",
+    "location": "HSR Layout",
+    "exp": "6–12 yrs",
+    "logo": "logos/thoughtspot.png",
+    "rank": 42
+   },
+   {
+    "company": "Truecaller",
+    "title": "Senior Android Engineer",
+    "location": "Bengaluru",
+    "exp": "6–10 yrs",
+    "logo": "logos/truecaller.png",
+    "rank": 62
+   },
+   {
+    "company": "Tekion",
+    "title": "Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "8–13 yrs",
+    "logo": "logos/tekion.png",
+    "rank": 40
+   },
+   {
+    "company": "Hevo Data",
+    "title": "Staff Software Engineer",
+    "location": "Bengaluru",
+    "exp": "8–10 yrs",
+    "logo": "logos/hevo-data.png",
+    "rank": 22
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_gcc-mnc",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Target",
+    "title": "Lead Engineer, Gen AI",
+    "location": "Nagavara",
+    "exp": "7–15 yrs",
+    "logo": "logos/target.png",
+    "rank": 72
+   },
+   {
+    "company": "Walmart Global Tech",
+    "title": "Senior Software Engineer",
+    "location": "Kadubeesanahalli",
+    "exp": "9–10 yrs",
+    "logo": "logos/walmart-global-tech.png",
+    "rank": 13
+   },
+   {
+    "company": "Disney",
+    "title": "Full Stack Developer",
+    "location": "Bengaluru",
+    "exp": "6–8 yrs",
+    "logo": "logos/disney.png",
+    "rank": 31
+   },
+   {
+    "company": "HP",
+    "title": "AI/ML Scientist",
+    "location": "Bengaluru",
+    "exp": "7–9 yrs",
+    "logo": "logos/hp.png",
+    "rank": 51
+   },
+   {
+    "company": "Aon",
+    "title": "Solutions Architect, AI/ML",
+    "location": "Whitefield",
+    "exp": "8–15 yrs",
+    "logo": "logos/aon.png",
+    "rank": 81
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_scale-ups_A",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Headout",
+    "title": "Staff Software Engineer",
+    "location": "Bellandur",
+    "exp": "8+ yrs",
+    "logo": "logos/headout.png",
+    "rank": 28
+   },
+   {
+    "company": "Krutrim",
+    "title": "SDE III, Backend",
+    "location": "Koramangala",
+    "exp": "6–10 yrs",
+    "logo": "logos/krutrim.png",
+    "rank": 20
+   },
+   {
+    "company": "Hiver",
+    "title": "SDE 3, Backend",
+    "location": "HSR Layout",
+    "exp": "7–10 yrs",
+    "logo": "logos/hiver.png",
+    "rank": 45
+   },
+   {
+    "company": "Mercari",
+    "title": "Platform Engineer",
+    "location": "Bengaluru",
+    "exp": "8–13 yrs",
+    "logo": "logos/mercari.png",
+    "rank": 9
+   },
+   {
+    "company": "Pronto",
+    "title": "Staff Engineer, Backend",
+    "location": "Bengaluru",
+    "exp": "8–13 yrs",
+    "logo": "logos/pronto.png",
+    "rank": 35
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_scale-ups_B",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Booking Holdings",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Bengaluru",
+    "exp": "8–12 yrs",
+    "logo": "logos/booking-holdings.png",
+    "rank": 5
+   },
+   {
+    "company": "VideoVerse",
+    "title": "Frontend Architect",
+    "location": "Marathahalli",
+    "exp": "8+ yrs",
+    "logo": "logos/videoverse.png",
+    "rank": 43
+   },
+   {
+    "company": "Operative",
+    "title": "Principal Software Engineer",
+    "location": "Bengaluru",
+    "exp": "7–10 yrs",
+    "logo": "logos/operative.png",
+    "rank": 80
+   },
+   {
+    "company": "Orange Health Labs",
+    "title": "Senior Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "9–12 yrs",
+    "logo": "logos/orange-health-labs.png",
+    "rank": 100
+   },
+   {
+    "company": "DriveX",
+    "title": "Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "6–9 yrs",
+    "logo": "logos/drivex.png",
+    "rank": 116
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_early-stage_A",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "Unifize",
+    "title": "Principal Backend Engineer",
+    "location": "Bengaluru",
+    "exp": "7–8 yrs",
+    "logo": "logos/unifize.png",
+    "rank": 30
+   },
+   {
+    "company": "FirstClub",
+    "title": "Principal Frontend Architect",
+    "location": "Bengaluru",
+    "exp": "7+ yrs",
+    "logo": "logos/firstclub.png",
+    "rank": 56
+   },
+   {
+    "company": "Zenskar",
+    "title": "Tech Lead",
+    "location": "Indiranagar",
+    "exp": "6–11 yrs",
+    "logo": "logos/zenskar.png",
+    "rank": 59
+   },
+   {
+    "company": "Auxia",
+    "title": "Staff Software Engineer",
+    "location": "Bellandur",
+    "exp": "9–15 yrs",
+    "logo": "logos/auxia.png",
+    "rank": 64
+   },
+   {
+    "company": "Coram AI",
+    "title": "Senior Backend Engineer",
+    "location": "HSR Layout",
+    "exp": "7–10 yrs",
+    "logo": "logos/coram-ai.png",
+    "rank": 57
+   }
+  ]
+ },
+ {
+  "name": "eng_senior_early-stage_B",
+  "fn": "senior engineering roles",
+  "total": 10828,
+  "roles": [
+   {
+    "company": "PowerUp Money",
+    "title": "SDE 3",
+    "location": "Koramangala",
+    "exp": "6–8 yrs",
+    "logo": "logos/powerup-money.png",
+    "rank": 38
+   },
+   {
+    "company": "Enterpret",
+    "title": "Principal Software Engineer",
+    "location": "Bengaluru",
+    "exp": "8–12 yrs",
+    "logo": "logos/enterpret.png",
+    "rank": 25
+   },
+   {
+    "company": "Efficient Capital Labs",
+    "title": "Lead Engineer",
+    "location": "Vasanth Nagar",
+    "exp": "6–9 yrs",
+    "logo": "logos/efficient-capital-labs.png",
+    "rank": 68
+   },
+   {
+    "company": "RevRag.AI",
+    "title": "Senior AI Engineer",
+    "location": "HSR Layout",
+    "exp": "7–12 yrs",
+    "logo": "logos/revrag-ai.png",
+    "rank": 52
+   },
+   {
+    "company": "Vegapay",
+    "title": "Data Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "7–10 yrs",
+    "logo": "logos/vegapay.png",
+    "rank": 90
+   }
+  ]
+ },
+ {
+  "name": "eng_leadership_gcc-mnc",
+  "fn": "engineering leadership roles",
+  "total": 6395,
+  "roles": [
+   {
+    "company": "HDFC Bank",
+    "title": "Senior Vice President, Engineering",
+    "location": "Bengaluru",
+    "exp": "20–25 yrs",
+    "logo": "logos/hdfc-bank.png",
+    "rank": 1
+   },
+   {
+    "company": "GE Healthcare",
+    "title": "Director, Software Engineering",
+    "location": "Bengaluru",
+    "exp": "15–20 yrs",
+    "logo": "logos/ge-healthcare.png",
+    "rank": 8
+   },
+   {
+    "company": "Target",
+    "title": "Senior Engineering Manager",
+    "location": "Nagavara",
+    "exp": "10–17 yrs",
+    "logo": "logos/target.png",
+    "rank": 17
+   },
+   {
+    "company": "Thomson Reuters",
+    "title": "Senior Director, Applied Research AI",
+    "location": "Bengaluru",
+    "exp": "15–16 yrs",
+    "logo": "logos/thomson-reuters.png",
+    "rank": 11
+   },
+   {
+    "company": "Commonwealth Bank",
+    "title": "Staff Software Engineer, Graph and Signals",
+    "location": "Nagavara",
+    "exp": "10–15 yrs",
+    "logo": "logos/commonwealth-bank.png",
+    "rank": 21
+   }
+  ]
+ },
+ {
+  "name": "eng_leadership_top-tech",
+  "fn": "engineering leadership roles",
+  "total": 6395,
+  "roles": [
+   {
+    "company": "eBay",
+    "title": "Senior Manager, Applied Research",
+    "location": "Bengaluru",
+    "exp": "12–14 yrs",
+    "logo": "logos/ebay.png",
+    "rank": 5
+   },
+   {
+    "company": "Rippling",
+    "title": "Senior Engineering Manager",
+    "location": "Bengaluru",
+    "exp": "11–19 yrs",
+    "logo": "logos/rippling.png",
+    "rank": 7
+   },
+   {
+    "company": "Quince",
+    "title": "Principal Engineer",
+    "location": "Bellandur",
+    "exp": "12–18 yrs",
+    "logo": "logos/quince.png",
+    "rank": 10
+   },
+   {
+    "company": "Smartsheet",
+    "title": "Principal Software Engineer",
+    "location": "Bengaluru",
+    "exp": "12–20 yrs",
+    "logo": "logos/smartsheet.png",
+    "rank": 12
+   },
+   {
+    "company": "Razorpay",
+    "title": "Principal Data Scientist",
+    "location": "Koramangala",
+    "exp": "10+ yrs",
+    "logo": "logos/razorpay.png",
+    "rank": 2
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_known-brands_A",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "Zepto",
+    "title": "Product Manager 1",
+    "location": "Haralur",
+    "exp": "2–4 yrs",
+    "logo": "logos/zepto.png",
+    "rank": 21
+   },
+   {
+    "company": "Pocket FM",
+    "title": "Senior Product Manager",
+    "location": "Koramangala",
+    "exp": "5–7 yrs",
+    "logo": "logos/pocket-fm.png",
+    "rank": 19
+   },
+   {
+    "company": "Ather Energy",
+    "title": "Product Manager, Charging Infrastructure",
+    "location": "Bengaluru",
+    "exp": "4–7 yrs",
+    "logo": "logos/ather-energy.png",
+    "rank": 33
+   },
+   {
+    "company": "Jar",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/jar.png",
+    "rank": 69
+   },
+   {
+    "company": "Paytm",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–6 yrs",
+    "logo": "logos/paytm.png",
+    "rank": 3
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_known-brands_B",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "PhysicsWallah",
+    "title": "Senior Product Manager, Engagement & Retention",
+    "location": "HSR Layout",
+    "exp": "3–9 yrs",
+    "logo": "logos/physicswallah.png",
+    "rank": 37
+   },
+   {
+    "company": "Lenskart",
+    "title": "Product Manager",
+    "location": "Halasuru",
+    "exp": "2+ yrs",
+    "logo": "logos/lenskart.png",
+    "rank": 26
+   },
+   {
+    "company": "JUSPAY",
+    "title": "Product Manager",
+    "location": "Koramangala",
+    "exp": "2–4 yrs",
+    "logo": "logos/juspay.png",
+    "rank": 11
+   },
+   {
+    "company": "Keka",
+    "title": "Senior Product Manager",
+    "location": "Indiranagar",
+    "exp": "5–9 yrs",
+    "logo": "logos/keka.png",
+    "rank": 20
+   },
+   {
+    "company": "Traya",
+    "title": "Senior Product Manager",
+    "location": "JP Nagar",
+    "exp": "4–7 yrs",
+    "logo": "logos/traya.png",
+    "rank": 63
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_known-brands_C",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "Kuku FM",
+    "title": "Senior Product Manager, Ads Monetisation & Retention",
+    "location": "Bengaluru",
+    "exp": "3–9 yrs",
+    "logo": "logos/kuku-fm.png",
+    "rank": 65
+   },
+   {
+    "company": "MoEngage",
+    "title": "Senior Product Manager",
+    "location": "Koramangala",
+    "exp": "5–10 yrs",
+    "logo": "logos/moengage.png",
+    "rank": 32
+   },
+   {
+    "company": "Justdial",
+    "title": "Senior Product Manager, Leads",
+    "location": "Nagavara",
+    "exp": "5–7 yrs",
+    "logo": "logos/justdial.png",
+    "rank": 81
+   },
+   {
+    "company": "Fam",
+    "title": "Senior Product Manager",
+    "location": "Bellandur",
+    "exp": "4–10 yrs",
+    "logo": "logos/fam.png",
+    "rank": 4
+   },
+   {
+    "company": "Glance",
+    "title": "Group Product Manager",
+    "location": "Bengaluru",
+    "exp": "4–10 yrs",
+    "logo": "logos/glance.png",
+    "rank": 13
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_known-brands_D",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "upGrad",
+    "title": "AI Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/upgrad.png",
+    "rank": 91
+   },
+   {
+    "company": "Blinkit",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/blinkit.png",
+    "rank": 6
+   },
+   {
+    "company": "Truemeds",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/truemeds.png",
+    "rank": 58
+   },
+   {
+    "company": "1% Club",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–5 yrs",
+    "logo": "logos/1-club.png",
+    "rank": 83
+   },
+   {
+    "company": "AppsForBharat",
+    "title": "Senior Product Manager",
+    "location": "Bengaluru",
+    "exp": "4–5 yrs",
+    "logo": "logos/appsforbharat.png",
+    "rank": 48
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_scale-ups_A",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "SpotDraft",
+    "title": "Product Manager",
+    "location": "HSR Layout",
+    "exp": "2–5 yrs",
+    "logo": "logos/spotdraft.png",
+    "rank": 50
+   },
+   {
+    "company": "Headout",
+    "title": "AI Product Manager",
+    "location": "Bellandur",
+    "exp": "2–4 yrs",
+    "logo": "logos/headout.png",
+    "rank": 54
+   },
+   {
+    "company": "WorkIndia",
+    "title": "Product Manager 2",
+    "location": "HSR Layout",
+    "exp": "3–7 yrs",
+    "logo": "logos/workindia.png",
+    "rank": 70
+   },
+   {
+    "company": "Kazam",
+    "title": "Product Manager, SaaS Platform",
+    "location": "Koramangala",
+    "exp": "2–5 yrs",
+    "logo": "logos/kazam.png",
+    "rank": 107
+   },
+   {
+    "company": "Teachmint",
+    "title": "Senior Product Manager",
+    "location": "Bengaluru",
+    "exp": "4–7 yrs",
+    "logo": "logos/teachmint.png",
+    "rank": 28
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_scale-ups_B",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "Xoxoday",
+    "title": "Senior Product Manager",
+    "location": "Bengaluru",
+    "exp": "4–9 yrs",
+    "logo": "logos/xoxoday.png",
+    "rank": 34
+   },
+   {
+    "company": "Uni Cards",
+    "title": "Product Manager 2",
+    "location": "Bengaluru",
+    "exp": "5–7 yrs",
+    "logo": "logos/uni-cards.png",
+    "rank": 52
+   },
+   {
+    "company": "ShopDeck",
+    "title": "Senior Product Manager",
+    "location": "Bengaluru",
+    "exp": "4–6 yrs",
+    "logo": "logos/shopdeck.png",
+    "rank": 72
+   },
+   {
+    "company": "ClickPost",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/clickpost.png",
+    "rank": 68
+   },
+   {
+    "company": "Rize",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/rize.png",
+    "rank": 66
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_early-stage_A",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "Aerchain",
+    "title": "Product Manager",
+    "location": "Bellandur",
+    "exp": "3–6 yrs",
+    "logo": "logos/aerchain.png",
+    "rank": 92
+   },
+   {
+    "company": "Pibit.ai",
+    "title": "Product Manager",
+    "location": "HSR Layout",
+    "exp": "3–5 yrs",
+    "logo": "logos/pibit-ai.png",
+    "rank": 15
+   },
+   {
+    "company": "SciSpace",
+    "title": "Senior Product Manager",
+    "location": "HSR Layout",
+    "exp": "4–9 yrs",
+    "logo": "logos/scispace.png",
+    "rank": 55
+   },
+   {
+    "company": "PowerUp Money",
+    "title": "Group Product Manager",
+    "location": "Koramangala",
+    "exp": "5–10 yrs",
+    "logo": "logos/powerup-money.png",
+    "rank": 62
+   },
+   {
+    "company": "SatSure",
+    "title": "AI Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–8 yrs",
+    "logo": "logos/satsure.png",
+    "rank": 25
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_early-stage_B",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "NuPlay AI",
+    "title": "Product Manager",
+    "location": "HSR Layout",
+    "exp": "3–7 yrs",
+    "logo": "logos/nuplay-ai.png",
+    "rank": 96
+   },
+   {
+    "company": "shopflo",
+    "title": "Growth Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/shopflo.png",
+    "rank": 95
+   },
+   {
+    "company": "Composio",
+    "title": "Associate Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/composio.png",
+    "rank": 104
+   },
+   {
+    "company": "Vegapay",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "3–8 yrs",
+    "logo": "logos/vegapay.png",
+    "rank": 74
+   },
+   {
+    "company": "SuperLiving",
+    "title": "Senior Product Manager",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/superliving.png",
+    "rank": 80
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_gcc-mnc",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "TCS",
+    "title": "Product Manager",
+    "location": "Whitefield",
+    "exp": "3–8 yrs",
+    "logo": "logos/tcs.png",
+    "rank": 146
+   },
+   {
+    "company": "PwC",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "3–7 yrs",
+    "logo": "logos/pwc.png",
+    "rank": 73
+   },
+   {
+    "company": "DP World",
+    "title": "Product Manager",
+    "location": "Koramangala",
+    "exp": "2+ yrs",
+    "logo": "logos/dp-world.png",
+    "rank": 17
+   },
+   {
+    "company": "Broadridge",
+    "title": "Product Owner",
+    "location": "Bengaluru",
+    "exp": "5–9 yrs",
+    "logo": "logos/broadridge.png",
+    "rank": 41
+   },
+   {
+    "company": "Amadeus",
+    "title": "Product Management, Technology",
+    "location": "Kadubeesanahalli",
+    "exp": "5–9 yrs",
+    "logo": "logos/amadeus.png",
+    "rank": 51
+   }
+  ]
+ },
+ {
+  "name": "pm_mid_global-tech",
+  "fn": "mid-level PM roles",
+  "total": 1006,
+  "roles": [
+   {
+    "company": "Amazon",
+    "title": "Senior Product Manager",
+    "location": "Yelahanka",
+    "exp": "4–12 yrs",
+    "logo": "logos/amazon.png",
+    "rank": 2
+   },
+   {
+    "company": "Media.net",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/media-net.png",
+    "rank": 56
+   },
+   {
+    "company": "Zynga",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "2–7 yrs",
+    "logo": "logos/zynga.png",
+    "rank": 42
+   },
+   {
+    "company": "Aspire",
+    "title": "Product Manager",
+    "location": "Bengaluru",
+    "exp": "3–5 yrs",
+    "logo": "logos/aspire.png",
+    "rank": 38
+   }
+  ]
+ },
+ {
+  "name": "pm_senior_brands",
+  "fn": "senior PM roles",
+  "total": 583,
+  "roles": [
+   {
+    "company": "Ather Energy",
+    "title": "Senior Product Manager, Vehicle Service Experience",
+    "location": "Bengaluru",
+    "exp": "6–10 yrs",
+    "logo": "logos/ather-energy.png",
+    "rank": 7
+   },
+   {
+    "company": "MoEngage",
+    "title": "Director of Product, Strategy & New Initiatives",
+    "location": "Bengaluru",
+    "exp": "8–15 yrs",
+    "logo": "logos/moengage.png",
+    "rank": 2
+   },
+   {
+    "company": "ALLEN Digital",
+    "title": "Category Product Lead",
+    "location": "Bengaluru",
+    "exp": "6–10 yrs",
+    "logo": "logos/allen-digital.png",
+    "rank": 12
+   },
+   {
+    "company": "Capital One",
+    "title": "Senior Product Manager",
+    "location": "Whitefield",
+    "exp": "8–12 yrs",
+    "logo": "logos/capital-one.png",
+    "rank": 1
+   },
+   {
+    "company": "Guidewire",
+    "title": "Senior Product Manager, Data Platform",
+    "location": "Bengaluru",
+    "exp": "8–12 yrs",
+    "logo": "logos/guidewire.png",
+    "rank": 6
+   }
+  ]
+ },
+ {
+  "name": "pm_senior_startups",
+  "fn": "senior PM roles",
+  "total": 583,
+  "roles": [
+   {
+    "company": "Aerchain",
+    "title": "Principal Product Manager",
+    "location": "Bengaluru",
+    "exp": "9–12 yrs",
+    "logo": "logos/aerchain.png",
+    "rank": 16
+   },
+   {
+    "company": "Arintra",
+    "title": "Senior Product Manager, Data",
+    "location": "Bengaluru",
+    "exp": "7–13 yrs",
+    "logo": "logos/arintra.png",
+    "rank": 11
+   },
+   {
+    "company": "Pice",
+    "title": "Head of Product",
+    "location": "Bengaluru",
+    "exp": "8–14 yrs",
+    "logo": "logos/pice.png",
+    "rank": 10
+   }
+  ]
+ },
+ {
+  "name": "marketing_mid_known-brands",
+  "fn": "mid-level marketing roles",
+  "total": 1701,
+  "roles": [
+   {
+    "company": "Swiggy",
+    "title": "Brand Marketing Manager",
+    "location": "Whitefield",
+    "exp": "4–7 yrs",
+    "logo": "logos/swiggy.png",
+    "rank": 2
+   },
+   {
+    "company": "NoBroker",
+    "title": "Product Marketing Lead",
+    "location": "Bengaluru",
+    "exp": "4–7 yrs",
+    "logo": "logos/nobroker.png",
+    "rank": 8
+   },
+   {
+    "company": "Angel One",
+    "title": "Content Marketer",
+    "location": "Bengaluru",
+    "exp": "3–7 yrs",
+    "logo": "logos/angel-one.png",
+    "rank": 13
+   },
+   {
+    "company": "Newton School",
+    "title": "Senior Performance Marketing Specialist",
+    "location": "Koramangala",
+    "exp": "4–8 yrs",
+    "logo": "logos/newton-school.png",
+    "rank": 50
+   },
+   {
+    "company": "Swish",
+    "title": "Brand Manager",
+    "location": "Bengaluru",
+    "exp": "3–5 yrs",
+    "logo": "logos/swish.png",
+    "rank": 22
+   }
+  ]
+ },
+ {
+  "name": "marketing_mid_scale-ups",
+  "fn": "mid-level marketing roles",
+  "total": 1701,
+  "roles": [
+   {
+    "company": "Mensa Brands",
+    "title": "Performance Marketing Executive",
+    "location": "Koramangala",
+    "exp": "2–4 yrs",
+    "logo": "logos/mensa-brands.png",
+    "rank": 17
+   },
+   {
+    "company": "NIRA",
+    "title": "Performance Marketing",
+    "location": "Bengaluru",
+    "exp": "2–5 yrs",
+    "logo": "logos/nira.png",
+    "rank": 33
+   },
+   {
+    "company": "Swiggy Dineout",
+    "title": "Digital Growth Marketing Manager",
+    "location": "Bengaluru",
+    "exp": "5–7 yrs",
+    "logo": "logos/swiggy-dineout.png",
+    "rank": 3
+   },
+   {
+    "company": "Kirana Club",
+    "title": "Performance Marketing Manager",
+    "location": "Bengaluru",
+    "exp": "4–5 yrs",
+    "logo": "logos/kirana-club.png",
+    "rank": 15
+   },
+   {
+    "company": "314e Corporation",
+    "title": "Growth Marketing Manager",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/314e-corporation.png",
+    "rank": 75
+   }
+  ]
+ },
+ {
+  "name": "marketing_mid_early-stage_A",
+  "fn": "mid-level marketing roles",
+  "total": 1701,
+  "roles": [
+   {
+    "company": "Mudrex",
+    "title": "Performance Marketing",
+    "location": "HSR Layout",
+    "exp": "4–7 yrs",
+    "logo": "logos/mudrex.png",
+    "rank": 11
+   },
+   {
+    "company": "Material Depot",
+    "title": "Brand Manager",
+    "location": "Bengaluru",
+    "exp": "5–8 yrs",
+    "logo": "logos/material-depot.png",
+    "rank": 10
+   },
+   {
+    "company": "Boldfit",
+    "title": "Brand Manager",
+    "location": "JP Nagar",
+    "exp": "3–8 yrs",
+    "logo": "logos/boldfit.png",
+    "rank": 49
+   },
+   {
+    "company": "FirstClub",
+    "title": "Copy Supervisor",
+    "location": "Bellandur",
+    "exp": "4–9 yrs",
+    "logo": "logos/firstclub.png",
+    "rank": 18
+   },
+   {
+    "company": "epik",
+    "title": "Head of Growth",
+    "location": "HSR Layout",
+    "exp": "2–8 yrs",
+    "logo": "logos/epik.png",
+    "rank": 70
+   }
+  ]
+ },
+ {
+  "name": "marketing_mid_early-stage_B",
+  "fn": "mid-level marketing roles",
+  "total": 1701,
+  "roles": [
+   {
+    "company": "Actioneer",
+    "title": "Demand Generation",
+    "location": "HSR Layout",
+    "exp": "2–5 yrs",
+    "logo": "logos/actioneer.png",
+    "rank": 58
+   },
+   {
+    "company": "Vobiz AI",
+    "title": "B2B Product Marketing",
+    "location": "Koramangala",
+    "exp": "2–6 yrs",
+    "logo": "logos/vobiz-ai.png",
+    "rank": 48
+   },
+   {
+    "company": "Lytmus",
+    "title": "Growth Manager",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/lytmus.png",
+    "rank": 37
+   },
+   {
+    "company": "Vidrow",
+    "title": "Performance Marketing Manager",
+    "location": "Bellandur",
+    "exp": "2–8 yrs",
+    "logo": "logos/vidrow.png",
+    "rank": 100
+   },
+   {
+    "company": "Rimigo",
+    "title": "Growth Executive, SEO & Organic Growth",
+    "location": "HSR Layout",
+    "exp": "2–6 yrs",
+    "logo": "logos/rimigo.png",
+    "rank": 82
+   }
+  ]
+ },
+ {
+  "name": "marketing_mid_early-stage_C",
+  "fn": "mid-level marketing roles",
+  "total": 1701,
+  "roles": [
+   {
+    "company": "Cosmos Diamonds",
+    "title": "Head of Growth",
+    "location": "HSR Layout",
+    "exp": "5–12 yrs",
+    "logo": "logos/cosmos-diamonds.png",
+    "rank": 32
+   },
+   {
+    "company": "NPrep",
+    "title": "Social Media Manager",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/nprep.png",
+    "rank": 165
+   },
+   {
+    "company": "Frontlyne",
+    "title": "Community and Events Manager",
+    "location": "JP Nagar",
+    "exp": "2–4 yrs",
+    "logo": "logos/frontlyne.png",
+    "rank": 60
+   },
+   {
+    "company": "Incresco",
+    "title": "Marketing Manager",
+    "location": "Bengaluru",
+    "exp": "2–6 yrs",
+    "logo": "logos/incresco.png",
+    "rank": 127
+   },
+   {
+    "company": "Okay Done",
+    "title": "Content Strategist",
+    "location": "Kodihalli",
+    "exp": "2–4 yrs",
+    "logo": "logos/okay-done.png",
+    "rank": 194
+   }
+  ]
+ },
+ {
+  "name": "marketing_senior",
+  "fn": "senior marketing roles",
+  "total": 443,
+  "roles": [
+   {
+    "company": "Elevation Capital",
+    "title": "Head of Marketing",
+    "location": "Bengaluru",
+    "exp": "8–15 yrs",
+    "logo": "logos/elevation-capital.png",
+    "rank": 5
+   },
+   {
+    "company": "Unosecur",
+    "title": "Marketing Lead, Global Brand & Content",
+    "location": "Kalyan Nagar",
+    "exp": "9–14 yrs",
+    "logo": "logos/unosecur.png",
+    "rank": 13
+   },
+   {
+    "company": "GrowthSchool",
+    "title": "Head of Marketing",
+    "location": "HSR Layout",
+    "exp": "9–13 yrs",
+    "logo": "logos/growthschool.png",
+    "rank": 6
+   },
+   {
+    "company": "HomeRun",
+    "title": "Copy Lead",
+    "location": "Bengaluru",
+    "exp": "7–11 yrs",
+    "logo": "logos/homerun.png",
+    "rank": 12
+   }
+  ]
+ },
+ {
+  "name": "sales_mid_early-stage_A",
+  "fn": "mid-level sales roles",
+  "total": 1941,
+  "roles": [
+   {
+    "company": "Flexiple",
+    "title": "Account Manager",
+    "location": "Kudlu Gate",
+    "exp": "3–7 yrs",
+    "logo": "logos/flexiple.png",
+    "rank": 29
+   },
+   {
+    "company": "TagMango",
+    "title": "Strategic Account Manager",
+    "location": "HSR Layout",
+    "exp": "2–5 yrs",
+    "logo": "logos/tagmango.png",
+    "rank": 35
+   },
+   {
+    "company": "LimeChat",
+    "title": "Enterprise Account Executive",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/limechat.png",
+    "rank": 11
+   },
+   {
+    "company": "xPay",
+    "title": "Account Executive",
+    "location": "HSR Layout",
+    "exp": "4–8 yrs",
+    "logo": "logos/xpay.png",
+    "rank": 33
+   },
+   {
+    "company": "Wayground",
+    "title": "Lead Account Executive",
+    "location": "HSR Layout",
+    "exp": "3–10 yrs",
+    "logo": "logos/wayground.png",
+    "rank": 10
+   }
+  ]
+ },
+ {
+  "name": "sales_mid_early-stage_B",
+  "fn": "mid-level sales roles",
+  "total": 1941,
+  "roles": [
+   {
+    "company": "DealBerg",
+    "title": "Key Account Manager",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/dealberg.png",
+    "rank": 37
+   },
+   {
+    "company": "SellerGeni",
+    "title": "Account Executive",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/sellergeni.png",
+    "rank": 61
+   },
+   {
+    "company": "Professor Curious",
+    "title": "Founding Account Executive",
+    "location": "HSR Layout",
+    "exp": "2–6 yrs",
+    "logo": "logos/professor-curious.png",
+    "rank": 16
+   },
+   {
+    "company": "SwiffyLabs",
+    "title": "Senior Manager, Pre-Sales",
+    "location": "HSR Layout",
+    "exp": "2–6 yrs",
+    "logo": "logos/swiffylabs.png",
+    "rank": 12
+   },
+   {
+    "company": "Impacteers",
+    "title": "Sales Manager, Staffing",
+    "location": "HSR Layout",
+    "exp": "2–8 yrs",
+    "logo": "logos/impacteers.png",
+    "rank": 52
+   }
+  ]
+ },
+ {
+  "name": "sales_mid_early-stage_C",
+  "fn": "mid-level sales roles",
+  "total": 1941,
+  "roles": [
+   {
+    "company": "epik",
+    "title": "Sales Operations Manager",
+    "location": "HSR Layout",
+    "exp": "4–7 yrs",
+    "logo": "logos/epik.png",
+    "rank": 27
+   },
+   {
+    "company": "Biopeak",
+    "title": "B2B Partnerships",
+    "location": "Indiranagar",
+    "exp": "2–4 yrs",
+    "logo": "logos/biopeak.png",
+    "rank": 38
+   },
+   {
+    "company": "StampMyVisa",
+    "title": "Sales Head, South India",
+    "location": "HSR Layout",
+    "exp": "5+ yrs",
+    "logo": "logos/stampmyvisa.png",
+    "rank": 54
+   },
+   {
+    "company": "Innovius Digital",
+    "title": "Enterprise Account Executive",
+    "location": "Kalyan Nagar",
+    "exp": "2–4 yrs",
+    "logo": "logos/innovius-digital.png",
+    "rank": 39
+   },
+   {
+    "company": "Shoptree",
+    "title": "Enterprise Sales Manager",
+    "location": "Bengaluru",
+    "exp": "3–5 yrs",
+    "logo": "logos/shoptree.png",
+    "rank": 72
+   }
+  ]
+ },
+ {
+  "name": "sales_mid_brands-scale-ups",
+  "fn": "mid-level sales roles",
+  "total": 1941,
+  "roles": [
+   {
+    "company": "MyGate",
+    "title": "Assistant Sales Manager",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/mygate.png",
+    "rank": 6
+   },
+   {
+    "company": "Leap",
+    "title": "Senior Sales Associate, Premium Sales",
+    "location": "HSR Layout",
+    "exp": "2–8 yrs",
+    "logo": "logos/leap.png",
+    "rank": 18
+   },
+   {
+    "company": "NetCom Learning",
+    "title": "Sales Consultant, Vendor Sales",
+    "location": "Koramangala",
+    "exp": "5–8 yrs",
+    "logo": "logos/netcom-learning.png",
+    "rank": 28
+   },
+   {
+    "company": "Value Point Systems",
+    "title": "Enterprise Account Manager",
+    "location": "JP Nagar",
+    "exp": "4–8 yrs",
+    "logo": "logos/value-point-systems.png",
+    "rank": 22
+   },
+   {
+    "company": "PayGlocal",
+    "title": "Sales Manager, Partnerships",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/payglocal.png",
+    "rank": 9
+   }
+  ]
+ },
+ {
+  "name": "sales_senior_startups",
+  "fn": "senior sales roles",
+  "total": 503,
+  "roles": [
+   {
+    "company": "Agrocorp",
+    "title": "Head of Sales",
+    "location": "Hebbal",
+    "exp": "8+ yrs",
+    "logo": "logos/agrocorp.png",
+    "rank": 2
+   },
+   {
+    "company": "Gigi",
+    "title": "Head of Sales, HoReCa & qCom",
+    "location": "Halasuru",
+    "exp": "7–12 yrs",
+    "logo": "logos/gigi.png",
+    "rank": 3
+   },
+   {
+    "company": "PeopleX Ventures",
+    "title": "Regional Sales Head",
+    "location": "Bengaluru",
+    "exp": "8+ yrs",
+    "logo": "logos/peoplex-ventures.png",
+    "rank": 9
+   }
+  ]
+ },
+ {
+  "name": "strategy_mid_brands-scale-ups",
+  "fn": "mid-level strategy roles",
+  "total": 292,
+  "roles": [
+   {
+    "company": "Swiggy",
+    "title": "General Manager, Ops Strategy",
+    "location": "Whitefield",
+    "exp": "4–10 yrs",
+    "logo": "logos/swiggy.png",
+    "rank": 2
+   },
+   {
+    "company": "Ninjacart",
+    "title": "Strategy & Operations",
+    "location": "Bengaluru",
+    "exp": "4–10 yrs",
+    "logo": "logos/ninjacart.png",
+    "rank": 5
+   },
+   {
+    "company": "Dozee",
+    "title": "Strategy Associate",
+    "location": "Bengaluru",
+    "exp": "3–9 yrs",
+    "logo": "logos/dozee.png",
+    "rank": 21
+   },
+   {
+    "company": "sugar.fit",
+    "title": "Program Manager, Doctor Partnerships",
+    "location": "Bengaluru",
+    "exp": "3–6 yrs",
+    "logo": "logos/sugar-fit.png",
+    "rank": 33
+   },
+   {
+    "company": "Lodha Group",
+    "title": "Strategy Lead",
+    "location": "Koramangala",
+    "exp": "2–4 yrs",
+    "logo": "logos/lodha-group.png",
+    "rank": 19
+   }
+  ]
+ },
+ {
+  "name": "strategy_mid_early-stage",
+  "fn": "mid-level strategy roles",
+  "total": 292,
+  "roles": [
+   {
+    "company": "Karbon Business",
+    "title": "Founder’s Office",
+    "location": "Bengaluru",
+    "exp": "2–4 yrs",
+    "logo": "logos/karbon-business.png",
+    "rank": 7
+   },
+   {
+    "company": "xto10x",
+    "title": "Growth Consultant",
+    "location": "HSR Layout",
+    "exp": "3–6 yrs",
+    "logo": "logos/xto10x.png",
+    "rank": 24
+   },
+   {
+    "company": "Evenflow",
+    "title": "Category Manager",
+    "location": "HSR Layout",
+    "exp": "2–6 yrs",
+    "logo": "logos/evenflow.png",
+    "rank": 22
+   },
+   {
+    "company": "Pathfinder",
+    "title": "Strategy Associate",
+    "location": "Indiranagar",
+    "exp": "4–6 yrs",
+    "logo": "logos/pathfinder.png",
+    "rank": 52
+   },
+   {
+    "company": "Arkahub",
+    "title": "Entrepreneur in Residence",
+    "location": "HSR Layout",
+    "exp": "2–4 yrs",
+    "logo": "logos/arkahub.png",
+    "rank": 43
+   }
+  ]
+ }
+]
